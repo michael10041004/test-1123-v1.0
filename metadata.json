@@ -1,0 +1,8 @@
+{
+  "name": "Remix 나만의 코디 v1",
+  "description": "연령대, 성별, 선호하는 옷 스타일을 선택하는 맞춤형 옷차림 추천 앱 \u0027나만의 코디\u0027의 첫 화면입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
